@@ -1,4 +1,5 @@
-# OOADJ_Project_Team13_D
+# OOADJ_Project
+Object Oriented Analysis and Design using Java
 
 
 # Language and Tools :
