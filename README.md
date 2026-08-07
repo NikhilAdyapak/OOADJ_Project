@@ -1,12 +1,21 @@
 # OOADJ_Project
-Object Oriented Analysis and Design using Java
 
+Object-Oriented Analysis and Design coursework in Java. A quiz application built to practice OOAD principles (encapsulation, inheritance, and clean class design).
 
-# Language and Tools :
-        Java JDK 14
-        Eclipse IDE
-        My SQL Workbench
-        Swing and AWT
-        
-# Description :
-        Quiz Application as a Java Project Using Object Oriented Analysis and Design Properties.
+## Tech
+
+- Java (JDK 14)
+
+## Layout
+
+```
+My_QUIZ/   the quiz application source
+```
+
+## Run
+
+```bash
+cd My_QUIZ
+javac *.java
+java Main
+```
